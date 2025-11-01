@@ -1,0 +1,25 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite" // or "postgresql" if using Postgres
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           Int           @id @default(autoincrement())
+  name         String
+  email        String        @unique
+  password     String
+  certificates Certificate[] // 👈 this line fixes the relation
+}
+
+model Certificate {
+  id        Int      @id @default(autoincrement())
+  title     String
+  issueDate DateTime @default(now())
+  verified  Boolean  @default(false)
+  userId    Int
+  user      User     @relation(fields: [userId], references: [id])
+}

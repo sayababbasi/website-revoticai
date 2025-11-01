@@ -1,0 +1,1858 @@
+[00:00:06.065] Server  LOG      ✓ Ready in 4.2s
+[00:00:22.215] Server  LOG      ○ Compiling /_not-found/page ...
+[00:00:29.986] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:05.822] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:01:05.902] Server  LOG      ✓ Compiled in 32ms
+[00:01:07.903] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:29:38.173] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '../components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "../components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:38.200] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '../components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "../components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:38.257] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '../components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "../components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:38.265] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '../components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "../components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:38.289] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '../components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "../components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:38.306] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '../components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "../components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:38.317] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '../components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "../components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:38.330] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '../components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "../components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:38.360] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '../components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "../components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:38.378] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '../components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "../components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:38.391] Server  LOG      ✓ Compiled in 516ms
+[00:29:39.246] Browser ERROR   ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '../components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "../components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi",
+
+https://nextjs.org/docs/messages/module-not-found
+[00:29:40.055] Server  ERROR    ⨯ ./revoticai/src/components/common/Navbar.jsx:465:1
+Module not found: Can't resolve '../../assets/images/logo.jpg'
+  463 | import { NavLink } from "react-router-dom";
+  464 | import { Menu, X } from "lucide-react";
+> 465 | import logo from "../../assets/images/logo.jpg";
+      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  466 |
+  467 | const Navbar = () => {
+  468 |   const [isOpen, setIsOpen] = useState(false);
+
+
+
+Import trace:
+  Server Component:
+    ./revoticai/src/components/common/Navbar.jsx
+    ./revoticai/src/app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:40.098] Server  ERROR    ⨯ ./revoticai/src/components/common/Navbar.jsx:465:1
+Module not found: Can't resolve '../../assets/images/logo.jpg'
+  463 | import { NavLink } from "react-router-dom";
+  464 | import { Menu, X } from "lucide-react";
+> 465 | import logo from "../../assets/images/logo.jpg";
+      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  466 |
+  467 | const Navbar = () => {
+  468 |   const [isOpen, setIsOpen] = useState(false);
+
+
+
+Import trace:
+  Server Component:
+    ./revoticai/src/components/common/Navbar.jsx
+    ./revoticai/src/app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:40.180] Server  ERROR    ⨯ ./revoticai/src/components/common/Navbar.jsx:463:1
+Module not found: Can't resolve 'react-router-dom'
+  461 | // src/components/common/Navbar.jsx
+  462 | import React, { useState, useEffect } from "react";
+> 463 | import { NavLink } from "react-router-dom";
+      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  464 | import { Menu, X } from "lucide-react";
+  465 | import logo from "../../assets/images/logo.jpg";
+  466 |
+
+
+
+Import trace:
+  Server Component:
+    ./revoticai/src/components/common/Navbar.jsx
+    ./revoticai/src/app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:40.216] Server  ERROR    ⨯ ./revoticai/src/components/common/Navbar.jsx:463:1
+Module not found: Can't resolve 'react-router-dom'
+  461 | // src/components/common/Navbar.jsx
+  462 | import React, { useState, useEffect } from "react";
+> 463 | import { NavLink } from "react-router-dom";
+      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  464 | import { Menu, X } from "lucide-react";
+  465 | import logo from "../../assets/images/logo.jpg";
+  466 |
+
+
+
+Import trace:
+  Server Component:
+    ./revoticai/src/components/common/Navbar.jsx
+    ./revoticai/src/app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:40.247] Server  ERROR    ⨯ ./revoticai/src/components/common/Navbar.jsx:465:1
+Module not found: Can't resolve '../../assets/images/logo.jpg'
+  463 | import { NavLink } from "react-router-dom";
+  464 | import { Menu, X } from "lucide-react";
+> 465 | import logo from "../../assets/images/logo.jpg";
+      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  466 |
+  467 | const Navbar = () => {
+  468 |   const [isOpen, setIsOpen] = useState(false);
+
+
+
+Import trace:
+  Server Component:
+    ./revoticai/src/components/common/Navbar.jsx
+    ./revoticai/src/app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:40.264] Server  ERROR    ⨯ ./revoticai/src/components/common/Navbar.jsx:465:1
+Module not found: Can't resolve '../../assets/images/logo.jpg'
+  463 | import { NavLink } from "react-router-dom";
+  464 | import { Menu, X } from "lucide-react";
+> 465 | import logo from "../../assets/images/logo.jpg";
+      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  466 |
+  467 | const Navbar = () => {
+  468 |   const [isOpen, setIsOpen] = useState(false);
+
+
+
+Import trace:
+  Server Component:
+    ./revoticai/src/components/common/Navbar.jsx
+    ./revoticai/src/app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:40.281] Server  ERROR    ⨯ ./revoticai/src/components/common/Navbar.jsx:463:1
+Module not found: Can't resolve 'react-router-dom'
+  461 | // src/components/common/Navbar.jsx
+  462 | import React, { useState, useEffect } from "react";
+> 463 | import { NavLink } from "react-router-dom";
+      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  464 | import { Menu, X } from "lucide-react";
+  465 | import logo from "../../assets/images/logo.jpg";
+  466 |
+
+
+
+Import trace:
+  Server Component:
+    ./revoticai/src/components/common/Navbar.jsx
+    ./revoticai/src/app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:40.297] Server  ERROR    ⨯ ./revoticai/src/components/common/Navbar.jsx:463:1
+Module not found: Can't resolve 'react-router-dom'
+  461 | // src/components/common/Navbar.jsx
+  462 | import React, { useState, useEffect } from "react";
+> 463 | import { NavLink } from "react-router-dom";
+      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  464 | import { Menu, X } from "lucide-react";
+  465 | import logo from "../../assets/images/logo.jpg";
+  466 |
+
+
+
+Import trace:
+  Server Component:
+    ./revoticai/src/components/common/Navbar.jsx
+    ./revoticai/src/app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:40.326] Server  ERROR    ⨯ ./revoticai/src/components/common/Navbar.jsx:465:1
+Module not found: Can't resolve '../../assets/images/logo.jpg'
+  463 | import { NavLink } from "react-router-dom";
+  464 | import { Menu, X } from "lucide-react";
+> 465 | import logo from "../../assets/images/logo.jpg";
+      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  466 |
+  467 | const Navbar = () => {
+  468 |   const [isOpen, setIsOpen] = useState(false);
+
+
+
+Import trace:
+  Server Component:
+    ./revoticai/src/components/common/Navbar.jsx
+    ./revoticai/src/app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:40.341] Server  ERROR    ⨯ ./revoticai/src/components/common/Navbar.jsx:465:1
+Module not found: Can't resolve '../../assets/images/logo.jpg'
+  463 | import { NavLink } from "react-router-dom";
+  464 | import { Menu, X } from "lucide-react";
+> 465 | import logo from "../../assets/images/logo.jpg";
+      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  466 |
+  467 | const Navbar = () => {
+  468 |   const [isOpen, setIsOpen] = useState(false);
+
+
+
+Import trace:
+  Server Component:
+    ./revoticai/src/components/common/Navbar.jsx
+    ./revoticai/src/app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:40.357] Server  ERROR    ⨯ ./revoticai/src/components/common/Navbar.jsx:463:1
+Module not found: Can't resolve 'react-router-dom'
+  461 | // src/components/common/Navbar.jsx
+  462 | import React, { useState, useEffect } from "react";
+> 463 | import { NavLink } from "react-router-dom";
+      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  464 | import { Menu, X } from "lucide-react";
+  465 | import logo from "../../assets/images/logo.jpg";
+  466 |
+
+
+
+Import trace:
+  Server Component:
+    ./revoticai/src/components/common/Navbar.jsx
+    ./revoticai/src/app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:40.367] Server  ERROR    ⨯ ./revoticai/src/components/common/Navbar.jsx:463:1
+Module not found: Can't resolve 'react-router-dom'
+  461 | // src/components/common/Navbar.jsx
+  462 | import React, { useState, useEffect } from "react";
+> 463 | import { NavLink } from "react-router-dom";
+      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  464 | import { Menu, X } from "lucide-react";
+  465 | import logo from "../../assets/images/logo.jpg";
+  466 |
+
+
+
+Import trace:
+  Server Component:
+    ./revoticai/src/components/common/Navbar.jsx
+    ./revoticai/src/app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:40.384] Server  ERROR    ⨯ ./revoticai/src/components/common/Navbar.jsx:465:1
+Module not found: Can't resolve '../../assets/images/logo.jpg'
+  463 | import { NavLink } from "react-router-dom";
+  464 | import { Menu, X } from "lucide-react";
+> 465 | import logo from "../../assets/images/logo.jpg";
+      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  466 |
+  467 | const Navbar = () => {
+  468 |   const [isOpen, setIsOpen] = useState(false);
+
+
+
+Import trace:
+  Server Component:
+    ./revoticai/src/components/common/Navbar.jsx
+    ./revoticai/src/app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:40.398] Server  ERROR    ⨯ ./revoticai/src/components/common/Navbar.jsx:465:1
+Module not found: Can't resolve '../../assets/images/logo.jpg'
+  463 | import { NavLink } from "react-router-dom";
+  464 | import { Menu, X } from "lucide-react";
+> 465 | import logo from "../../assets/images/logo.jpg";
+      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  466 |
+  467 | const Navbar = () => {
+  468 |   const [isOpen, setIsOpen] = useState(false);
+
+
+
+Import trace:
+  Server Component:
+    ./revoticai/src/components/common/Navbar.jsx
+    ./revoticai/src/app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:40.414] Server  ERROR    ⨯ ./revoticai/src/components/common/Navbar.jsx:463:1
+Module not found: Can't resolve 'react-router-dom'
+  461 | // src/components/common/Navbar.jsx
+  462 | import React, { useState, useEffect } from "react";
+> 463 | import { NavLink } from "react-router-dom";
+      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  464 | import { Menu, X } from "lucide-react";
+  465 | import logo from "../../assets/images/logo.jpg";
+  466 |
+
+
+
+Import trace:
+  Server Component:
+    ./revoticai/src/components/common/Navbar.jsx
+    ./revoticai/src/app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:40.426] Server  ERROR    ⨯ ./revoticai/src/components/common/Navbar.jsx:463:1
+Module not found: Can't resolve 'react-router-dom'
+  461 | // src/components/common/Navbar.jsx
+  462 | import React, { useState, useEffect } from "react";
+> 463 | import { NavLink } from "react-router-dom";
+      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  464 | import { Menu, X } from "lucide-react";
+  465 | import logo from "../../assets/images/logo.jpg";
+  466 |
+
+
+
+Import trace:
+  Server Component:
+    ./revoticai/src/components/common/Navbar.jsx
+    ./revoticai/src/app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:29:41.233] Browser ERROR   ./revoticai/src/components/common/Navbar.jsx:462:27
+Ecmascript file had an error
+  460 |
+  461 | // src/components/common/Navbar.jsx
+> 462 | import React, { useState, useEffect } from "react";
+      |                           ^^^^^^^^^
+  463 | import { NavLink } from "react-router-dom";
+  464 | import { Menu, X } from "lucide-react";
+  465 | import logo from "../../assets/images/logo.jpg";
+
+You're importing a component that needs `useEffect`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./revoticai/src/components/common/Navbar.jsx
+    ./revoticai/src/app/layout.jsx
+[00:29:41.233] Browser ERROR   ./revoticai/src/components/common/Navbar.jsx:462:17
+Ecmascript file had an error
+  460 |
+  461 | // src/components/common/Navbar.jsx
+> 462 | import React, { useState, useEffect } from "react";
+      |                 ^^^^^^^^
+  463 | import { NavLink } from "react-router-dom";
+  464 | import { Menu, X } from "lucide-react";
+  465 | import logo from "../../assets/images/logo.jpg";
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./revoticai/src/components/common/Navbar.jsx
+    ./revoticai/src/app/layout.jsx
+[00:29:41.233] Browser ERROR   ./revoticai/src/components/common/Navbar.jsx:465:1
+Module not found: Can't resolve '../../assets/images/logo.jpg'
+  463 | import { NavLink } from "react-router-dom";
+  464 | import { Menu, X } from "lucide-react";
+> 465 | import logo from "../../assets/images/logo.jpg";
+      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  466 |
+  467 | const Navbar = () => {
+  468 |   const [isOpen, setIsOpen] = useState(false);
+
+Import trace:
+  Server Component:
+    ./revoticai/src/components/common/Navbar.jsx
+    ./revoticai/src/app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:29:41.233] Browser ERROR   ./revoticai/src/components/common/Navbar.jsx:463:1
+Module not found: Can't resolve 'react-router-dom'
+  461 | // src/components/common/Navbar.jsx
+  462 | import React, { useState, useEffect } from "react";
+> 463 | import { NavLink } from "react-router-dom";
+      | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  464 | import { Menu, X } from "lucide-react";
+  465 | import logo from "../../assets/images/logo.jpg";
+  466 |
+
+Import trace:
+  Server Component:
+    ./revoticai/src/components/common/Navbar.jsx
+    ./revoticai/src/app/layout.jsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:31:44.135] Server  LOG      ✓ Compiled in 112ms
+[00:31:51.941] Server  ERROR    ⨯ ReferenceError: useEffect is not defined
+[00:31:52.646] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:52.646] Browser ERROR   uncaughtError: ReferenceError: useEffect is not defined
+[00:41:11.376] Server  LOG      ✓ Compiled in 349ms
+[00:41:11.803] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:41:11.804] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:41:11.804] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:41:12.596] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:41:12.854] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/assets/images/logo.png" "received" null
+[00:43:01.358] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:43:01.362] Server  LOG      ✓ Compiled in 42ms
+[00:43:01.886] Server  ERROR   TypeError: Invalid URL
+[00:43:01.945] Server  ERROR    ⨯ Error: Failed to parse src "src/assets/images/logo.png" on `next/image`, if using relative image it must start with a leading slash "/" or be an absolute URL (http:// or https://)
+[00:43:02.602] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:43:03.245] Browser ERROR   {"message":"Failed to construct 'URL': Invalid URL"}
+[00:43:03.245] Browser ERROR   {"message":"Failed to construct 'URL': Invalid URL"}
+[00:43:03.245] Browser ERROR   uncaughtError: Error: Failed to parse src "src/assets/images/logo.png" on `next/image`, if using relative image it must start with a leading slash "/" or be an absolute URL (http:// or https://)
+[00:43:10.068] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:43:10.069] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:43:10.070] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:43:10.105] Server  LOG      ✓ Compiled in 22ms
+[00:43:10.463] Server  ERROR   TypeError: Invalid URL
+[00:43:10.489] Server  ERROR    ⨯ Error: Failed to parse src "assets/images/logo.png" on `next/image`, if using relative image it must start with a leading slash "/" or be an absolute URL (http:// or https://)
+[00:43:11.032] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:43:11.249] Browser ERROR   {"message":"Failed to construct 'URL': Invalid URL"}
+[00:43:11.249] Browser ERROR   {"message":"Failed to construct 'URL': Invalid URL"}
+[00:43:11.249] Browser ERROR   uncaughtError: Error: Failed to parse src "assets/images/logo.png" on `next/image`, if using relative image it must start with a leading slash "/" or be an absolute URL (http:// or https://)
+[00:43:35.553] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:43:35.554] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:43:35.555] Server  LOG      ✓ Compiled in 28ms
+[00:43:35.556] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:43:36.507] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/assets/images/logo.png" "received" null
+[00:43:36.596] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:22.181] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:22.192] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/assets/images/logo.png" "received" null
+[00:44:26.399] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/assets/images/logo.png" "received" null
+[00:44:28.546] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/assets/images/logo.png" "received" null
+[00:44:29.586] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/assets/images/logo.png" "received" null
+[00:44:30.565] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/assets/images/logo.png" "received" null
+[00:44:31.648] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/assets/images/logo.png" "received" null
+[00:44:32.500] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/assets/images/logo.png" "received" null
+[00:45:41.651] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:45:41.661] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/assets/images/logo.png" "received" null
+[00:51:33.368] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:33.433] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:33.566] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:33.629] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:33.655] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:33.716] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:33.775] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:33.836] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:33.887] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:33.937] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:51:33.948] Server  LOG      ✓ Compiled in 398ms
+[00:51:34.243] Browser ERROR   ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+https://nextjs.org/docs/messages/module-not-found
+[00:55:02.268] Browser ERROR   ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+https://nextjs.org/docs/messages/module-not-found
+[00:55:15.442] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:55:15.668] Browser ERROR   ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+https://nextjs.org/docs/messages/module-not-found
+[00:55:18.503] Browser ERROR   ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+https://nextjs.org/docs/messages/module-not-found
+[00:55:18.534] Server  LOG      ○ Compiling /_error ...
+[00:55:18.799] Browser ERROR   ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+https://nextjs.org/docs/messages/module-not-found
+[00:55:21.505] Browser ERROR   uncaughtError: Error: ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:55:21.651] Browser ERROR   ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+https://nextjs.org/docs/messages/module-not-found
+[00:55:21.984] Browser ERROR   ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+https://nextjs.org/docs/messages/module-not-found
+[01:00:18.803] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.866] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:18.986] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:19.088] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:20.285] Browser ERROR   uncaughtError: Error: ./revoticai/package.json:13:5
+Error parsing package.json file
+  11 |   "compilerOptions": {
+  12 |     "baseUrl": "src"
+> 13 |     "paths": {
+     |     ^
+  14 |       "@/*": ["src/*"]
+  15 |     }
+  16 |   },
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 13 column 5
+
+
+[01:00:21.256] Browser ERROR   ./revoticai/package.json:13:5
+Error parsing package.json file
+  11 |   "compilerOptions": {
+  12 |     "baseUrl": "src"
+> 13 |     "paths": {
+     |     ^
+  14 |       "@/*": ["src/*"]
+  15 |     }
+  16 |   },
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 13 column 5
+[01:00:21.257] Browser ERROR   ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+https://nextjs.org/docs/messages/module-not-found
+[01:00:21.257] Browser ERROR   ./revoticai/package.json:13:5
+Error parsing package.json file
+  11 |   "compilerOptions": {
+  12 |     "baseUrl": "src"
+> 13 |     "paths": {
+     |     ^
+  14 |       "@/*": ["src/*"]
+  15 |     }
+  16 |   },
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 13 column 5
+[01:00:21.257] Browser ERROR   ./revoticai/package.json:13:5
+Error parsing package.json file
+  11 |   "compilerOptions": {
+  12 |     "baseUrl": "src"
+> 13 |     "paths": {
+     |     ^
+  14 |       "@/*": ["src/*"]
+  15 |     }
+  16 |   },
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 13 column 5
+[01:00:21.257] Browser ERROR   ./revoticai/package.json:13:5
+Error parsing package.json file
+  11 |   "compilerOptions": {
+  12 |     "baseUrl": "src"
+> 13 |     "paths": {
+     |     ^
+  14 |       "@/*": ["src/*"]
+  15 |     }
+  16 |   },
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 13 column 5
+[01:00:21.257] Browser ERROR   ./revoticai/package.json:13:5
+Error parsing package.json file
+  11 |   "compilerOptions": {
+  12 |     "baseUrl": "src"
+> 13 |     "paths": {
+     |     ^
+  14 |       "@/*": ["src/*"]
+  15 |     }
+  16 |   },
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 13 column 5
+[01:00:21.257] Browser ERROR   ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+https://nextjs.org/docs/messages/module-not-found
+[01:00:33.047] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:33.118] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:33.238] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:33.328] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:33.716] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:34.035] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:34.302] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:34.352] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:34.433] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:34.872] Browser ERROR   ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+https://nextjs.org/docs/messages/module-not-found
+[01:00:34.872] Browser ERROR   ./revoticai/package.json:13:5
+Error parsing package.json file
+  11 |   "compilerOptions": {
+  12 |     "baseUrl": "src"
+> 13 |     "paths": {
+     |     ^
+  14 |       "@/*": ["src/*"]
+  15 |     }
+  16 |   },
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 13 column 5
+[01:00:34.872] Browser ERROR   ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+https://nextjs.org/docs/messages/module-not-found
+[01:00:34.872] Browser ERROR   ./revoticai/package.json:13:5
+Error parsing package.json file
+  11 |   "compilerOptions": {
+  12 |     "baseUrl": "src"
+> 13 |     "paths": {
+     |     ^
+  14 |       "@/*": ["src/*"]
+  15 |     }
+  16 |   },
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 13 column 5
+[01:00:34.872] Browser ERROR   ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+https://nextjs.org/docs/messages/module-not-found
+[01:00:34.872] Browser ERROR   ./revoticai/package.json:13:5
+Error parsing package.json file
+  11 |   "compilerOptions": {
+  12 |     "baseUrl": "src"
+> 13 |     "paths": {
+     |     ^
+  14 |       "@/*": ["src/*"]
+  15 |     }
+  16 |   },
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 13 column 5
+[01:00:34.872] Browser ERROR   ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+https://nextjs.org/docs/messages/module-not-found
+[01:00:34.872] Browser ERROR   ./revoticai/package.json:13:5
+Error parsing package.json file
+  11 |   "compilerOptions": {
+  12 |     "baseUrl": "src"
+> 13 |     "paths": {
+     |     ^
+  14 |       "@/*": ["src/*"]
+  15 |     }
+  16 |   },
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 13 column 5
+[01:00:34.872] Browser ERROR   ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+https://nextjs.org/docs/messages/module-not-found
+[01:00:34.872] Browser ERROR   ./revoticai/package.json:13:5
+Error parsing package.json file
+  11 |   "compilerOptions": {
+  12 |     "baseUrl": "src"
+> 13 |     "paths": {
+     |     ^
+  14 |       "@/*": ["src/*"]
+  15 |     }
+  16 |   },
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 13 column 5
+[01:00:34.872] Browser ERROR   ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+https://nextjs.org/docs/messages/module-not-found
+[01:00:34.872] Browser ERROR   ./revoticai/package.json:13:5
+Error parsing package.json file
+  11 |   "compilerOptions": {
+  12 |     "baseUrl": "src"
+> 13 |     "paths": {
+     |     ^
+  14 |       "@/*": ["src/*"]
+  15 |     }
+  16 |   },
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 13 column 5
+[01:00:34.872] Browser ERROR   ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+https://nextjs.org/docs/messages/module-not-found
+[01:00:34.872] Browser ERROR   ./revoticai/package.json:13:5
+Error parsing package.json file
+  11 |   "compilerOptions": {
+  12 |     "baseUrl": "src"
+> 13 |     "paths": {
+     |     ^
+  14 |       "@/*": ["src/*"]
+  15 |     }
+  16 |   },
+
+package.json is not parseable: invalid JSON: expected `,` or `}` at line 13 column 5
+[01:00:35.686] Browser ERROR   uncaughtError: Error: ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:35.836] Browser ERROR   ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+https://nextjs.org/docs/messages/module-not-found
+[01:00:35.946] Browser ERROR   ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '@/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "@/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+https://nextjs.org/docs/messages/module-not-found
+[01:00:58.916] Server  ERROR    ⨯ ./revoticai/src/app
+Module not found: Can't resolve './components/common/Navbar'
+server relative imports are not implemented yet. Please try an import relative to the file you are importing from.
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:59.054] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:59.104] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:00:59.472] Browser ERROR   ./revoticai/src/app
+Module not found: Can't resolve './components/common/Navbar'
+server relative imports are not implemented yet. Please try an import relative to the file you are importing from.
+
+https://nextjs.org/docs/messages/module-not-found
+[01:00:59.473] Browser ERROR   ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve '/components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "/components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+https://nextjs.org/docs/messages/module-not-found
+[01:01:05.466] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve 'components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:01:05.486] Server  ERROR    ⨯ ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve 'components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:01:05.603] Browser ERROR   ./revoticai/src/app/layout.jsx:2:1
+Module not found: Can't resolve 'components/common/Navbar'
+  1 | import "./globals.css";
+> 2 | import Navbar from "components/common/Navbar";
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 |
+  4 | export const metadata = {
+  5 |   title: "RevoticAi | Next-Gen AI Solutions",
+
+https://nextjs.org/docs/messages/module-not-found
+[01:01:32.804] Server  LOG      ✓ Compiled in 149ms
+[01:01:35.692] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:01:39.639] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:09:31.796] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:11:57.206] Server  LOG      ✓ Compiled in 599ms
+[01:11:57.867] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:11:57.898] Server  LOG      ✓ Compiled in 80ms
+[01:11:59.888] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:12:02.354] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:38.962] Server  LOG      ✓ Compiled in 51ms
+[01:12:38.968] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[01:12:39.860] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:13:47.655] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:18:56.689] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:21:17.767] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:21:17.793] Server  LOG      ✓ Compiled in 256ms
+[05:21:18.643] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:21:25.186] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:22:29.240] Server  LOG      ✓ Compiled in 285ms
+[05:22:37.890] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:25:25.331] Server  LOG      ✓ Compiled in 417ms
+[05:29:59.241] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:29:59.477] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:31:49.460] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:31:49.494] Server  LOG      ✓ Compiled in 279ms
+[05:31:51.278] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:31:51.599] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:32:06.900] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:32:06.923] Server  LOG      ✓ Compiled in 175ms
+[05:32:08.481] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:32:08.839] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:32:26.059] Server  LOG      ✓ Compiled in 158ms
+[05:32:26.083] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:32:27.151] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:32:28.243] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:32:29.904] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:32:29.936] Server  LOG      ✓ Compiled in 206ms
+[05:32:30.592] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:32:30.821] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:32:35.066] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:32:35.098] Server  LOG      ✓ Compiled in 120ms
+[05:32:36.018] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:32:36.266] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:32:40.133] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:32:40.168] Server  LOG      ✓ Compiled in 96ms
+[05:32:40.973] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:32:41.146] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:32:46.001] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:32:46.025] Server  LOG      ✓ Compiled in 90ms
+[05:32:46.631] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:32:47.256] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:32:49.048] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:32:49.121] Server  LOG      ✓ Compiled in 73ms
+[05:32:50.085] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:32:50.263] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:32:50.263] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:33:24.618] Server  LOG      ✓ Compiled in 2.2s
+[05:34:00.743] Server  LOG      ✓ Compiled in 1904ms
+[05:34:14.949] Server  LOG      ✓ Compiled in 1970ms
+[05:34:25.112] Server  LOG      ✓ Compiled in 1986ms
+[05:34:58.364] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:34:58.381] Server  LOG      ✓ Compiled in 87ms
+[05:34:59.562] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:34:59.718] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:34:59.718] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:35:22.125] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:35:22.147] Server  LOG      ✓ Compiled in 98ms
+[05:35:23.275] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:35:23.421] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:35:23.421] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:35:27.802] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:35:27.833] Server  LOG      ✓ Compiled in 93ms
+[05:35:28.952] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:35:29.109] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:35:29.109] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:35:32.556] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:35:32.581] Server  LOG      ✓ Compiled in 106ms
+[05:35:33.467] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:35:33.615] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:35:33.615] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:36:04.437] Server  LOG      ✓ Compiled in 104ms
+[05:36:04.468] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:36:05.258] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:36:06.271] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:36:11.735] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:36:11.768] Server  LOG      ✓ Compiled in 75ms
+[05:36:12.792] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:36:12.971] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:36:12.971] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:36:19.487] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:36:20.008] Server  LOG      ✓ Compiled in 85ms
+[05:36:20.308] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:36:21.251] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:36:24.871] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:37:01.639] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:37:01.666] Server  LOG      ✓ Compiled in 94ms
+[05:37:02.371] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:37:03.246] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:37:04.488] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:37:53.095] Server  LOG      ✓ Compiled in 2.1s
+[05:38:00.975] Server  LOG      ✓ Compiled in 2s
+[05:38:05.388] Server  LOG      ✓ Compiled in 1682ms
+[05:38:25.558] Server  LOG      ✓ Compiled in 2s
+[05:38:30.879] Server  LOG      ✓ Compiled in 1873ms
+[05:38:45.305] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:38:45.390] Server  LOG      ✓ Compiled in 123ms
+[05:38:46.386] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:38:46.561] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:38:46.561] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:38:53.607] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:38:53.644] Server  LOG      ✓ Compiled in 93ms
+[05:38:54.877] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:38:55.050] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:38:55.050] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:39:00.156] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:39:00.191] Server  LOG      ✓ Compiled in 116ms
+[05:39:01.252] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:39:01.409] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[05:39:01.409] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[05:39:31.772] Server  LOG      ✓ Compiled in 484ms
+[05:39:33.360] Server  ERROR    ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[05:39:33.963] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:39:34.098] Server  LOG      ✓ Compiled in 14ms
+[05:39:34.099] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+Check the render method of `RootLayout`.
+[05:42:21.640] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[05:42:21.670] Server  LOG      ✓ Compiled in 201ms
+[05:42:22.281] Browser ERROR   unhandledRejection: Error: No link element found for chunk /_next/static/chunks/revoticai_src_app_globals_96259011.css
+[05:42:22.758] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/assets/images/noBgBlack.png" "received" null
+[05:42:22.932] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:42:24.003] Browser WARN    Image with src "/assets/images/noBgBlack.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:07:06.892] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:07:06.918] Server  LOG      ✓ Compiled in 253ms
+[06:07:07.912] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/assets/images/noBgBlack.png" "received" null
+[06:07:08.270] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:07:09.258] Browser WARN    Image with src "/assets/images/noBgBlack.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:07:12.354] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:07:12.370] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/assets/images/noBgBlack.png" "received" null
+[06:07:19.050] Server  LOG      ✓ Compiled in 178ms
+[06:07:19.189] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:07:20.287] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:07:21.236] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:07:22.576] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:07:22.588] Server  LOG      ✓ Compiled in 72ms
+[06:07:23.675] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/assets/images/noBgBlack.png" "received" null
+[06:07:23.849] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:07:24.004] Browser WARN    Image with src "/assets/images/noBgBlack.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:07:29.935] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:07:29.996] Server  LOG      ✓ Compiled in 95ms
+[06:07:30.908] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:07:31.077] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[06:07:31.077] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:09:59.243] Browser ERROR   ./revoticai/src/app/layout.jsx:3:8
+Ecmascript file had an error
+  1 | import "./globals.css";
+  2 | import Navbar from "../components/common/Navbar";
+> 3 | import Navbar from "../components/common/Topbar";
+    |        ^^^^^^
+  4 |
+  5 | export const metadata = {
+  6 |   title: "RevoticAi",
+
+the name `Navbar` is defined multiple times
+[06:10:18.923] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:10:19.378] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:10:19.559] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[06:10:34.629] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:10:34.791] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[06:10:34.791] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:10:56.012] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:10:56.036] Server  LOG      ✓ Compiled in 157ms
+[06:10:57.753] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:10:58.231] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:11:02.121] Server  LOG      ✓ Compiled in 358ms
+[06:11:03.068] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:11:04.232] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:11:13.154] Server  LOG      ✓ Compiled in 95ms
+[06:11:13.164] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Topbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:11:13.828] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:11:14.240] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:11:20.986] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[06:11:24.856] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:11:25.005] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[06:11:25.005] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:13:42.367] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:13:42.531] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[06:13:42.532] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:13:44.427] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:13:44.610] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[06:13:44.610] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:14:28.601] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:14:28.634] Server  LOG      ✓ Compiled in 138ms
+[06:14:30.148] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:14:31.238] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:15:12.791] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[06:15:18.270] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:15:18.433] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[06:15:18.433] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:23:00.683] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:23:01.240] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:23:02.478] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[06:38:22.883] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:38:22.900] Server  LOG      ✓ Compiled in 223ms
+[06:38:25.663] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:38:26.091] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[06:38:26.091] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:39:31.211] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Topbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:39:31.223] Server  LOG      ✓ Compiled in 171ms
+[06:39:33.799] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:39:34.241] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:40:16.714] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Topbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:40:16.731] Server  LOG      ✓ Compiled in 121ms
+[06:40:20.580] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:40:21.249] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:41:53.950] Server  LOG      ✓ Compiled in 216ms
+[06:41:54.123] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Topbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:41:55.420] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:41:56.246] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:41:56.591] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[06:42:20.723] Server  LOG      ✓ Compiled in 245ms
+[06:42:20.729] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:42:22.127] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:42:23.249] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:42:35.477] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:42:35.569] Server  LOG      ✓ Compiled in 172ms
+[06:42:36.506] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:42:37.301] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:42:43.229] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[06:43:22.003] Server  LOG      ✓ Compiled in 4.3s
+[06:45:45.690] Server  LOG      ✓ Compiled in 3.6s
+[06:46:17.560] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:46:17.603] Server  LOG      ✓ Compiled in 290ms
+[06:46:20.778] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:46:21.280] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:46:31.252] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[06:46:33.697] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:46:33.881] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[06:46:33.881] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:52:31.133] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:52:31.553] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[06:52:31.553] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:57:54.714] Server  LOG      ✓ Compiled in 137ms
+[06:57:54.738] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:57:56.076] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:57:57.241] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:58:18.620] Server  LOG      ✓ Compiled in 148ms
+[06:58:18.832] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:58:20.074] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:58:21.683] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:58:22.941] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[06:59:15.207] Server  LOG      ✓ Compiled in 209ms
+[06:59:15.219] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:59:17.416] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:59:17.925] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:59:23.445] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:59:23.514] Server  LOG      ✓ Compiled in 241ms
+[06:59:25.845] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:59:26.212] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[06:59:26.212] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:59:43.799] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:59:43.863] Server  LOG      ✓ Compiled in 172ms
+[06:59:47.036] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:59:47.363] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[06:59:47.414] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:59:52.612] Server  LOG      ✓ Compiled in 296ms
+[06:59:52.622] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[06:59:54.681] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:59:56.253] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[06:59:57.562] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[07:01:13.205] Server  LOG      ✓ Compiled in 2.1s
+[07:01:15.974] Server  ERROR    ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[07:01:17.882] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:01:18.296] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+Check the render method of `RootLayout`.
+[07:04:03.637] Server  LOG      ✓ Compiled in 3.2s
+[07:04:03.644] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[07:04:04.969] Server  ERROR    ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[07:04:05.093] Browser ERROR   unhandledRejection: Error: No link element found for chunk /_next/static/chunks/revoticai_src_app_globals_96259011.css
+[07:04:07.775] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:04:07.775] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+Check the render method of `RootLayout`.
+[07:12:27.174] Server  LOG      ✓ Compiled in 631ms
+[07:12:28.858] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[07:12:29.458] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:12:30.250] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:12:36.142] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:12:36.346] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[07:12:36.346] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:13:01.190] Server  LOG      ✓ Compiled in 3.8s
+[07:13:01.742] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:13:01.944] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[07:13:01.944] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:14:06.743] Server  LOG      ✓ Compiled in 2.6s
+[07:18:19.892] Server  LOG      ✓ Compiled in 666ms
+[07:18:21.065] Server  ERROR    ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[07:18:23.341] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:18:23.341] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+Check the render method of `RootLayout`.
+[07:21:37.402] Server  LOG      ✓ Compiled in 467ms
+[07:21:38.181] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[07:21:39.355] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:21:40.235] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:21:47.301] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[07:22:50.120] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[07:22:50.135] Server  LOG      ✓ Compiled in 208ms
+[07:22:52.146] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:22:52.471] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[07:22:52.471] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:23:00.089] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[07:23:00.143] Server  LOG      ✓ Compiled in 170ms
+[07:23:01.427] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:23:01.632] Browser WARN    Image with src "/assets/images/logo.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[07:23:01.632] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:31:23.192] Server  LOG      ✓ Compiled in 386ms
+[07:31:23.199] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Topbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[07:31:25.004] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:31:26.247] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:31:45.763] Server  LOG      ✓ Compiled in 170ms
+[07:31:45.768] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[07:31:46.850] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:31:47.240] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:39:51.862] Server  LOG      ✓ Compiled in 679ms
+[07:40:03.588] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:40:04.040] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:40:26.887] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Topbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[07:40:26.919] Server  LOG      ✓ Compiled in 234ms
+[07:40:28.918] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:40:30.237] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:40:53.927] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[07:40:53.928] Server  LOG      ✓ Compiled in 368ms
+[07:40:56.697] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:40:57.147] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:57:35.259] Server  LOG      ✓ Compiled in 334ms
+[07:57:35.292] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Topbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[07:57:36.678] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:57:37.239] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[07:58:15.094] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[07:58:15.105] Server  LOG      ✓ Compiled in 176ms
+[07:58:17.016] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:58:17.237] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:02:05.812] Server  LOG      ✓ Compiled in 305ms
+[08:02:05.819] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Topbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[08:02:07.810] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:02:08.257] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:03:07.392] Server  LOG      ✓ Compiled in 354ms
+[08:03:33.771] Server  LOG      ✓ Compiled in 409ms
+[08:04:38.757] Server  LOG      ✓ Compiled in 211ms
+[08:04:38.765] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[08:04:41.453] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:04:42.243] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:06:34.310] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:06:34.405] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:06:39.521] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:06:39.959] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:06:45.484] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:06:45.847] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:07:00.985] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[08:07:01.528] Server  LOG      ✓ Compiled in 382ms
+[08:07:03.681] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:07:04.116] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:11:50.680] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[08:11:50.809] Server  LOG      ✓ Compiled in 368ms
+[08:11:52.002] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:11:52.389] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:12:44.603] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[08:12:44.771] Server  LOG      ✓ Compiled in 112ms
+[08:12:47.140] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:12:48.236] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:15:27.583] Server  LOG      ✓ Compiled in 559ms
+[08:15:37.608] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:15:37.978] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:19:48.021] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[08:19:48.026] Server  LOG      ✓ Compiled in 131ms
+[08:19:50.617] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:19:51.104] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:23:28.325] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:23:28.683] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:36:29.985] Server  LOG      ✓ Compiled in 629ms
+[08:36:30.550] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[08:36:33.047] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:36:39.738] Server  LOG      ✓ Compiled in 287ms
+[08:36:39.773] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Topbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[08:36:42.261] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:36:48.159] Server  LOG      ✓ Compiled in 451ms
+[08:36:48.849] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[08:36:52.089] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:36:53.237] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:37:29.752] Server  LOG      ✓ Compiled in 170ms
+[08:37:30.237] Browser ERROR   ./revoticai/src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: E:\Business\Website\Revotic-AI-Website\New folder\RevoticAi Website\revoticai\src\app\globals.css:16:1: Unexpected }
+    [at Input.error (turbopack:///[project]/revoticai/node_modules/postcss/lib/input.js:135:16)]
+    [at Parser.unexpectedClose (turbopack:///[project]/revoticai/node_modules/postcss/lib/parser.js:587:22)]
+    [at Parser.end (turbopack:///[project]/revoticai/node_modules/postcss/lib/parser.js:330:12)]
+    [at Parser.parse (turbopack:///[project]/revoticai/node_modules/postcss/lib/parser.js:456:16)]
+    [at parse (turbopack:///[project]/revoticai/node_modules/postcss/lib/parse.js:11:12)]
+    [at new LazyResult (turbopack:///[project]/revoticai/node_modules/postcss/lib/lazy-result.js:165:16)]
+    [at Processor.process (turbopack:///[project]/revoticai/node_modules/postcss/lib/processor.js:53:14)]
+    [at transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:51)]
+    [at run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:29)]
+    [at run (turbopack:///[turbopack-node]/ipc/evaluate.ts:115:11)]
+
+Import trace:
+  Client Component Browser:
+    ./revoticai/src/app/globals.css [Client Component Browser]
+    ./revoticai/src/app/layout.jsx [Server Component]
+[08:37:42.145] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:37:42.499] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:38:00.790] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[08:38:00.794] Server  LOG      ✓ Compiled in 269ms
+[08:38:02.960] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:38:03.450] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:38:06.560] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[08:38:06.604] Server  LOG      ✓ Compiled in 296ms
+[08:38:07.819] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:38:08.000] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:39:19.912] Server  LOG      ✓ Compiled in 434ms
+[08:39:41.486] Server  LOG      ✓ Compiled in 349ms
+[08:39:45.319] Server  LOG      ✓ Compiled in 413ms
+[08:40:12.918] Server  LOG      ✓ Compiled in 401ms
+[08:47:59.109] Server  LOG      ✓ Compiled in 260ms
+[08:47:59.114] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[08:48:01.757] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:48:03.234] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:48:43.579] Server  LOG      ✓ Compiled in 412ms
+[08:49:39.928] Server  LOG      ✓ Compiled in 402ms
+[08:49:49.317] Server  LOG      ✓ Compiled in 317ms
+[08:54:06.205] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[08:54:06.295] Server  LOG      ✓ Compiled in 190ms
+[08:54:09.319] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:54:10.249] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:54:15.654] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[08:54:15.686] Server  LOG      ✓ Compiled in 342ms
+[08:54:16.838] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:54:17.040] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:54:35.550] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Navbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[08:54:35.567] Server  LOG      ✓ Compiled in 171ms
+[08:54:38.956] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:54:39.399] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:55:25.246] Server  LOG      ✓ Compiled in 420ms
+[08:57:26.998] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Topbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[08:57:27.016] Server  LOG      ✓ Compiled in 1116ms
+[08:57:29.144] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:57:29.753] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[08:57:54.876] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./revoticai/src/components/common/Topbar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[08:57:54.907] Server  LOG      ✓ Compiled in 204ms
+[08:57:56.658] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:57:56.973] Browser WARN    Image with src "/assets/images/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///E:/RevoticAi%20Website/revoticai/src/app/home/page.jsx"],"sourcesContent":["export default function HomePage() {\r\n  return (\r\n    <main>\r\n      <h1>Welcome to RevoticAi</h1>\r\n      <p>Innovative AI and full-stack solutions.</p>\r\n    </main>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,kPAAC;;0BACC,iPAAC;0BAAG;;0BACJ,iPAAC;0BAAE;;;;AAGT","debugId":null}}]
+}

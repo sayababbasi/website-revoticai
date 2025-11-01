@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///E:/Business/Website/Revotic-AI-Website/New%20folder/RevoticAi%20Website/revoticai/src/app/page.jsx"],"sourcesContent":["export default function Home() {\r\n  return (\r\n    <main className=\"pt-24 flex flex-col items-center justify-center text-center min-h-screen bg-gray-50\">\r\n      <h1 className=\"text-5xl font-extrabold text-blue-600 mb-4\">\r\n        Welcome to RevoticAi\r\n      </h1>\r\n      <p className=\"text-lg text-gray-700 max-w-xl\">\r\n        We build next-generation AI and automation solutions for businesses.\r\n      </p>\r\n    </main>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,kPAAC;QAAK,WAAU;;0BACd,iPAAC;gBAAG,WAAU;0BAA6C;;0BAG3D,iPAAC;gBAAE,WAAU;0BAAiC;;;;AAKpD","debugId":null}}]
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///E:/Business/Website/Revotic-AI-Website/New%20folder/RevoticAi%20Website/revoticai/src/app/layout.jsx"],"sourcesContent":["import \"./globals.css\";\r\nimport Navbar from \"@/components/common/Navbar\";\r\n\r\nexport const metadata = {\r\n  title: \"RevoticAi | Next-Gen AI Solutions\",\r\n  description: \"We build next-generation AI and automation solutions for businesses.\",\r\n};\r\n\r\nexport default function RootLayout({ children }) {\r\n  return (\r\n    <html lang=\"en\">\r\n      <body className=\"bg-light text-neutral\">\r\n        <Navbar />\r\n        <main className=\"pt-24\">{children}</main>\r\n      </body>\r\n    </html>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;;;;;;;;;;;AAGO,MAAM,WAAW;IACtB,OAAO;IACP,aAAa;AACf;AAEe,SAAS,WAAW,EAAE,QAAQ,EAAE;IAC7C,qBACE,iPAAC;QAAK,MAAK;kBACT,cAAA,kPAAC;YAAK,WAAU;;8BACd,iPAAC;8BACD,iPAAC;oBAAK,WAAU;8BAAS;;;;;AAIjC","debugId":null}}]
+}

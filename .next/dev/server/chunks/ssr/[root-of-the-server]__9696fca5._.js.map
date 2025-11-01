@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///E:/Business/Website/Revotic-AI-Website/New%20folder/RevoticAi%20Website/revoticai/src/app/contact/page.jsx"],"sourcesContent":["export default function AboutPage() {\r\n  return <h1>Contant RevoticAI</h1>;\r\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBAAO,iPAAC;kBAAG;;AACb","debugId":null}}]
+}
